@@ -1,2 +1,1 @@
-goodbye git
-4242
+goodbye, git
