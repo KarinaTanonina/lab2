@@ -1,1 +1,1 @@
-goodbye, git
+hello git
